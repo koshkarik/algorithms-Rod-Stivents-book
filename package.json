@@ -1,0 +1,29 @@
+{
+  "name": "algorithms-rod-stevens",
+  "version": "0.0.1",
+  "description": "Solving the book",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --expand"
+  },
+  "keywords": [
+    "algorithms"
+  ],
+  "author": "Yarik",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^5.7.0",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.14.0",
+    "jest": "^23.6.0",
+    "jest-cli": "^23.6.0"
+  },
+  "dependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-core": "^6.26.3",
+    "babel-eslint": "^10.0.1",
+    "babel-jest": "^23.6.0",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-stage-0": "^6.24.1"
+  }
+}
